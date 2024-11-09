@@ -1,4 +1,4 @@
-# SpringSecurityWithDatabaseandWEB
+Spring Security with Database Authentication in Spring Boot
 
 **Project Overview**<br>
 This project demonstrates the implementation of a Spring Boot application with Spring Security configured for database-backed authentication. The application is designed to authenticate users based on credentials stored in a MySQL database, with secure access to specific web pages using JSP.<br><br>
